@@ -1,4 +1,4 @@
-# media-studio-release
+# media-studio-release | [EN](README.en.md)
 
 ## 软件介绍
 

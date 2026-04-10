@@ -1,4 +1,4 @@
-# media-studio-release
+# media-studio-release | [ZH](README.md)
 
 ## Introduction
 
